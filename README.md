@@ -14,3 +14,5 @@ DATABASE Connection
 
   then run the index.html in localhost 
   
+  Extract the GP zip file and run it
+  
